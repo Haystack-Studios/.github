@@ -15,15 +15,9 @@ Capture, train, and battle creatures in a world where memories shape reality. Co
 
 ---
 
-### 🛠️ Open Source
-
-We believe in giving back. Some of our tools and projects are open source:
-
-- **[Mission Control](https://github.com/Haystack-Studios/mission-control)** — Dashboard for AI agent orchestration
-
----
-
 ### 💬 Community
+
+Have ideas, feedback, or just want to chat? Join the conversation!
 
 - **[Discussions](https://github.com/orgs/Haystack-Studios/discussions)** — Ideas, feedback, and general chat
 - **Website** — [haystackstudios.games](https://haystackstudios.games) *(coming soon)*
