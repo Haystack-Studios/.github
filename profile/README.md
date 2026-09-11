@@ -1,33 +1,29 @@
-# 🌾 Haystack Studios
+# Haystack Studios
 
-**Indie game development with heart.**
+**Indie games worth the search.**
 
-We're a small studio crafting unique gaming experiences. Our focus: memorable gameplay, compelling worlds, and games we'd want to play ourselves.
+Haystack Studios LLC is a two-person indie game studio. We care about tight mechanics, memorable art, and games that get people playing together.
 
----
-
-### 🎮 Current Projects
-
-#### Mythros: Hollow Recall
-*A turn-based creature battle game*
-
-Capture, train, and battle creatures in a world where memories shape reality. Coming soon.
+Website: [haystackstudios.games](https://haystackstudios.games) · Support: [support@haystackstudios.games](mailto:support@haystackstudios.games)
 
 ---
 
-### 💬 Community
+### Games
 
-Have ideas, feedback, or just want to chat? Join the conversation!
+**[Hide & Sleuth](https://haystackstudios.games/games/hide-and-sleuth)** — Live · Web + iOS
+A live scavenger hunt for any group. Suspects in disguise hide in plain sight; teams of sleuths find them. No accounts for sleuths, runs in the browser. Play at [hideandsleuth.app](https://hideandsleuth.app).
 
-- **[Discussions](https://github.com/orgs/Haystack-Studios/discussions)** — Ideas, feedback, and general chat
-- **Website** — [haystackstudios.games](https://haystackstudios.games) *(coming soon)*
+**[Mythros: Hollow Recall](https://haystackstudios.games/games/mythros)** — In development · PC (Steam)
+Rogue-like tactical RPG. Build your party from 6 base classes, evolve them into 24 specializations, and battle through procedurally generated maps. Permadeath runs, 2v2 tactical combat, 8-bit pixel art.
 
----
-
-### 👥 The Team
-
-We're a small but mighty crew. Want to collaborate? Open a discussion or reach out!
+**[No Step Twice](https://haystackstudios.games/games/no-step-twice)** — Coming soon
+AI-driven adventure RPG. Every choice permanently changes the world, for you and everyone else. Sign up on the site to be first in.
 
 ---
 
-<sub>*Finding needles in haystacks since 2025* 🪡</sub>
+### Talk to us
+
+- [Discussions](https://github.com/orgs/Haystack-Studios/discussions) for ideas and feedback
+- [support@haystackstudios.games](mailto:support@haystackstudios.games) for anything about a game
+
+© Haystack Studios LLC · [Privacy](https://haystackstudios.games/privacy)
